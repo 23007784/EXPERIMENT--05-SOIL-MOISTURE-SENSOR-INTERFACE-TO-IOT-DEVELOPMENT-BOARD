@@ -163,6 +163,10 @@ PUTCHAR_PROTOTYPE
 ## Output screen shots on serial monitor   :
  
  ![alt text](<Screenshot 2025-05-05 143141.png>)
+
+ ## Hardware :
+ ![iot soil moist](https://github.com/user-attachments/assets/9599ce95-e2fd-4309-b4ab-a63db380a196)
+
   
 ## Result :
 Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based IOT development is executed and the results visualized on serial monitor 
