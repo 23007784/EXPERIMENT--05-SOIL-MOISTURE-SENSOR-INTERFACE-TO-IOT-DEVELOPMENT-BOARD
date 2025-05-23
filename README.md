@@ -165,7 +165,7 @@ PUTCHAR_PROTOTYPE
  ![alt text](<Screenshot 2025-05-05 143141.png>)
 
  ## Hardware :
- ![iot soil moist](https://github.com/user-attachments/assets/9599ce95-e2fd-4309-b4ab-a63db380a196)
+ ![soil introiot](https://github.com/user-attachments/assets/4a89195f-0a5b-40de-96b9-2dfb75049a6c)
 
   
 ## Result :
